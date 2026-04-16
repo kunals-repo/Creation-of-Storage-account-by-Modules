@@ -10,6 +10,9 @@ Uses modular Terraform code for better structure and reusability
 
 **Benefits of Using Modules**
 Reduced Code Duplication: Common configurations are reused across resources, minimizing repetitive code.
+
 Improved Maintainability: Changes can be made in one place and reflected across all usages.
+
 Better Readability: Code is cleaner and easier to understand due to logical separation.
+
 Scalability: Easily extend infrastructure by reusing existing modules.
